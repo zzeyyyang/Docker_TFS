@@ -1,4 +1,4 @@
-# Docker_TFS
+# TFS
 
 Use Tensorflow Serving via docker to accelarate the prediction of a tf model to meet the demand for high concurrency.
 
